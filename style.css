@@ -1,0 +1,66 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px auto;
+  width: 800px;
+  height: 550px;
+  padding-top: 20px;
+}
+.logo{
+  text-align: center;
+  width: 150px;
+  margin: 30px 0 0 5px;
+}
+
+header  p{
+  font-size: 20px;
+  color: #00dd00;
+  margin: 10px;
+}
+
+.nav{
+  background-color: #00dd00;
+  padding: 3px;
+  width: 600px;
+  margin: auto;
+}
+
+.main{
+  width: 600px;
+  margin: auto;
+  text-align: left;
+  color: white;
+  padding: 10px 0;
+}
+
+.main p {
+margin:5px;
+font-size: 10px;
+}
+
+.carica {
+  border-radius: 5px;
+  color: transparent;
+}
+
+#carica1{
+    width: 38%;
+    background-color: #f5b453;
+}
+
+#carica2{
+  width: 74%;
+  background-color: #00dd00;
+}
+
+#carica3{
+  width: 22%;
+  background-color: #be4141;
+}
